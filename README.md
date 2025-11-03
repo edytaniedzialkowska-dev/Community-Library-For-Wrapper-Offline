@@ -1,10 +1,8 @@
-Community Library Project (Community_Library v1.0, by Jacob2010)
+# Community Library Project (Community_Library v1.0, by Jacob2010)
 
 Keep in mind that this is only a fraction of the community library that was recovered. so not everything has been archived from the community library. I'll probably add more as time goes on. Credit to those who contributed. But, Someone GoAnimate Getting a Removed Community Library On July 31st, 2013 For Some Reason The All! Also, The Community Library Project And Like FlashThemes, And Wrapper Offline! So, I'm Community Library Project For FlashThemes For Some Reason!
 
-If there are any problems, dm me.
-
- ~~~ How to add to your wrapper. ~~~ 
+~~~ How to add to your wrapper. ~~~ 
 
 1. Place this theme's folder into your asset reposity in /store/3a981f5cb2739137/ (if you host asset server someplace else)
 If you use wrapper offline, just place it in /wrapper-ofline/server/store/3a981f5cb2739137/
