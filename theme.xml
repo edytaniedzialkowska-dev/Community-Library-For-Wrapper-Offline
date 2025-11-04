@@ -3188,4 +3188,29 @@
 <action id="2768749932390.swf" name="Stand"/>
 <action id="9436383689.swf" name="Jumping" enable="Y" aid="9436383689.swf"/>
 </char>
+<prop id="kids-breaded-chicken-nuggets-star-shaped-isolated-creative-photography-white-background-89950070-removebg-preview.png" name="Chicken Stars" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="kmc_20251001_162203.png" name="Wrapper Online Emerald Logo" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="WIN_20250819_16_40_38_Pro.jpg" name="Alkhalif Animate" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<char id="SpongeBob_late_2023_and_january_2024" name="Spongebob (Late 2023 and January 2024)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+</char>
+<char id="patrick" name="Patrick" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="kid.swf" name="Kid" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="patrick star show outfit.swf" name="Patrick Star Show Outfit" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+	</char>
+        <char id="squidward" name="Squidward" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="kid.swf" name="Kid" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="patrick star show outfit.swf" name="Patrick Star Show Outfit" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+	</char>
+<char id="krabs" name="Krabs" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="kamp koral outfit.swf" name="Kamp Koral Outfit" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+	</char>
 </theme>
