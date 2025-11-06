@@ -3292,4 +3292,21 @@
 <sound id="tomp3.cc - Running Sound Effect.mp3" name="Running" downloadtype="progressive" subtype="soundeffect" duration="3918" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
 <sound id="New Adam Walking (May 2021).mp3" name="Adam Walking May 2021" downloadtype="progressive" subtype="soundeffect" duration="6766" enable="Y" is_premium="N" aid="31406" money="0" sharing="0"/>
 <sound id="New Adam Running (May 2021).mp3" name="Adam Running May 2021" downloadtype="progressive" subtype="soundeffect" duration="3500" enable="Y" is_premium="N" aid="31423" money="0" sharing="0"/>
+<char id="spongebob_christoons" name="Spongebob (ChrisTOONS!)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="kid.swf" name="Kid" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="patrick star show outfit.swf" name="Patrick Star Show Outfit" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+	</char>
+<char id="sandy" name="Sandy" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="kid.swf" name="Kid" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="patrick star show outfit.swf" name="Patrick Star Show Outfit" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+	</char>
+<char id="plankton" name="Plankton" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="kamp koral outfit.swf" name="Kamp Koral Outfit" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+	</char>
 </theme>
