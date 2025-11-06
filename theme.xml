@@ -3223,4 +3223,11 @@
                 <action id="sad.swf" name="Sad" loop="Y" totalframe="50" enable="Y" aid="8265"/>
 	</char>
 <prop id="Windows_10_desktop.png" name="Windows 10" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<effect id="rainbow_effect_jacob2010.swf" type="ANIME" resize="false" move="false" name="Rainbow Effect (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
+<effect id="color_mood_light_jacob2010.swf" type="ANIME" resize="false" move="false" name="Color Mood Light Effect (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
+        <effect id="epilepsy3_jacob2010.swf" type="ANIME" resize="false" move="false" name="Epilepsy 3 (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
+        <effect id="epilepsy_jacob2010.swf" type="ANIME" resize="false" move="false" name="Epilepsy (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
+<effect id="epilepsy2_jacob2010.swf" type="ANIME" resize="false" move="false" name="Epilepsy 2 (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
+<effect id="snow-fall-jacob2010.swf" type="ANIME" resize="false" move="false" name="Custom Snow Falling Effect (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
+        <effect id="invert_color_jacob2010.swf" type="ANIME" resize="false" move="false" name="Invert Color (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
 </theme>
