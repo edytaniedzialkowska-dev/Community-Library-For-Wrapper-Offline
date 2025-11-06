@@ -3222,4 +3222,5 @@
                 <action id="talk.swf" name="Talking" loop="Y" totalframe="50" enable="Y" aid="8264"/>
                 <action id="sad.swf" name="Sad" loop="Y" totalframe="50" enable="Y" aid="8265"/>
 	</char>
+<prop id="Windows_10_desktop.png" name="Windows 10" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 </theme>
