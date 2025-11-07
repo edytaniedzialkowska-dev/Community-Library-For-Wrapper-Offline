@@ -3115,10 +3115,17 @@
 <action id="33860521212008.swf" name="frames" enable="Y" aid="33860521212008.swf"/>
 <action id="19852270547701.swf" name="frames" enable="Y" aid="19852270547701.swf"/>
 </char>
-<char id="penguin" name="Penguin (Penguin Diner)" thumb="iajopfyn-removebg-preview.png" facing="left" default="iajopfyn-removebg-preview.png" motion="iajopfyn-removebg-preview.png" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
-		<action id="iajopfyn-removebg-preview.png" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
-		<action id="iajopfyn-removebg-preview — kopia.png" name="Normal" loop="Y" totalframe="50" enable="Y" aid="8261"/>
-                <action id="iajopfyn-removebg-preview — kopia — kopia.png" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+<char id="penguin" name="Penguin (Penguin Diner)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="normal.swf" name="Normal" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="relaxed.swf" name="Relaxed!" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="talk.swf" name="Talking" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="crying.swf" name="Crying" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+                <action id="sad.swf" name="Sad" loop="Y" totalframe="50" enable="Y" aid="8267"/>
+                <action id="bored.swf" name="Bored" loop="Y" totalframe="50" enable="Y" aid="8268"/>
+                <action id="shock.swf" name="Shocked!" loop="Y" totalframe="50" enable="Y" aid="8268"/>
 	</char>
 <prop id="Jacob2010 Avatar October 2025.png" name="Jacob2010 Avatar October 2025" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="Jacob2010 Avatar April 2025.jpg" name="Jacob2010 Avatar April 2025" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
@@ -3308,5 +3315,10 @@
 		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
 		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
                 <action id="kamp koral outfit.swf" name="Kamp Koral Outfit" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+	</char>
+<char id="penguin_old" name="Penguin (Penguin Diner) (Old)" thumb="iajopfyn-removebg-preview.png" facing="left" default="iajopfyn-removebg-preview.png" motion="iajopfyn-removebg-preview.png" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="iajopfyn-removebg-preview.png" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="iajopfyn-removebg-preview — kopia.png" name="Normal" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="iajopfyn-removebg-preview — kopia — kopia.png" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8262"/>
 	</char>
 </theme>
