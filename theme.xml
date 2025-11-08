@@ -3126,6 +3126,12 @@
                 <action id="sad.swf" name="Sad" loop="Y" totalframe="50" enable="Y" aid="8267"/>
                 <action id="bored.swf" name="Bored" loop="Y" totalframe="50" enable="Y" aid="8268"/>
                 <action id="shock.swf" name="Shocked!" loop="Y" totalframe="50" enable="Y" aid="8268"/>
+                <action id="furious.swf" name="Furious" loop="Y" totalframe="50" enable="Y" aid="8269"/>
+                <action id="exe_mode.swf" name="EXE Mode" loop="Y" totalframe="50" enable="Y" aid="8270"/>
+                <action id="punch.swf" name="PUNCH!" loop="Y" totalframe="50" enable="Y" aid="8271"/>
+                <action id="slap.swf" name="Slap" loop="Y" totalframe="50" enable="Y" aid="8272"/>
+                <action id="super_furious.swf" name="SUPER FURIOUS!" loop="Y" totalframe="50" enable="Y" aid="8273"/>
+                <action id="asleep.swf" name="Asleep" loop="Y" totalframe="50" enable="Y" aid="8274"/>
 	</char>
 <prop id="Jacob2010 Avatar October 2025.png" name="Jacob2010 Avatar October 2025" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="Jacob2010 Avatar April 2025.jpg" name="Jacob2010 Avatar April 2025" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
