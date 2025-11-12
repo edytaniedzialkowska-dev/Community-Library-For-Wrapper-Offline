@@ -3306,9 +3306,4 @@
 		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
                 <action id="kamp koral outfit.swf" name="Kamp Koral Outfit" loop="Y" totalframe="50" enable="Y" aid="8262"/>
 	</char>
-<char id="penguin_old" name="Penguin (Penguin Diner) (Old)" thumb="iajopfyn-removebg-preview.png" facing="left" default="iajopfyn-removebg-preview.png" motion="iajopfyn-removebg-preview.png" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
-		<action id="iajopfyn-removebg-preview.png" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
-		<action id="iajopfyn-removebg-preview — kopia.png" name="Normal" loop="Y" totalframe="50" enable="Y" aid="8261"/>
-                <action id="iajopfyn-removebg-preview — kopia — kopia.png" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8262"/>
-	</char>
 </theme>
