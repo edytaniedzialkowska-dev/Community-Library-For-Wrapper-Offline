@@ -3132,6 +3132,7 @@
                 <action id="slap.swf" name="Slap" loop="Y" totalframe="50" enable="Y" aid="8272"/>
                 <action id="super_furious.swf" name="SUPER FURIOUS!" loop="Y" totalframe="50" enable="Y" aid="8273"/>
                 <action id="asleep.swf" name="Asleep" loop="Y" totalframe="50" enable="Y" aid="8274"/>
+                <action id="pingu_style.swf" name="Pingu Style" loop="Y" totalframe="50" enable="Y" aid="8275"/>
 	</char>
 <prop id="Jacob2010 Avatar October 2025.png" name="Jacob2010 Avatar October 2025" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="Jacob2010 Avatar April 2025.jpg" name="Jacob2010 Avatar April 2025" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
