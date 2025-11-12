@@ -3007,23 +3007,6 @@
 <action id="8916092923.swf" name="stand"/>
 <action id="7747752.swf" name="laugh" enable="Y" aid="7747752.swf"/>
 </char>
-<char id="boyfriend" name="Boyfriend" thumb="df0y2kj-e2b8ee38-34de-4af6-9209-dc977ac42884.png" facing="left" default="df0y2kj-e2b8ee38-34de-4af6-9209-dc977ac42884.png" motion="df0y2kj-e2b8ee38-34de-4af6-9209-dc977ac42884.png" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
-		<action id="df0y2kj-e2b8ee38-34de-4af6-9209-dc977ac42884.png" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
-		<action id="Boyfriend_Accurate_Design.png" name="Two Fingers" loop="Y" totalframe="50" enable="Y" aid="8261"/>
-                <action id="Boyfriend_SA2.png" name="Two Fingers For The 2nd Time!" loop="Y" totalframe="50" enable="Y" aid="8262"/>
-</char>
-<char id="caillouretro" name="Caillou (Cartoon Classics)" thumb="cartoonclassicscailloustanding.swf" facing="left" default="cartoonclassicscailloustanding.swf" motion="cartoonclassicscaillouwalking.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
-		<action id="cartoonclassicscailloustanding.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
-		<action id="cartoonclassicscailloutalking.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
-                <action id="cartoonclassicscaillouwalking.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8262"/>
-</char>
-<char id="ben_talkingfriends" name="Talking Ben (Talking Friends)" thumb="7d33ea16a32a9532ea39826820a54ec2-removebg-preview.png" facing="left" default="7d33ea16a32a9532ea39826820a54ec2-removebg-preview.png" motion="7d33ea16a32a9532ea39826820a54ec2-removebg-preview.png" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
-		<action id="7d33ea16a32a9532ea39826820a54ec2-removebg-preview.png" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
-		<action id="Bennie-removebg-preview.png" name="Pose" loop="Y" totalframe="50" enable="Y" aid="8261"/>
-                <action id="Ben2014-removebg-preview.png" name="Stand (2014)" loop="Y" totalframe="50" enable="Y" aid="8262"/>
-                <action id="Talking_Ben-removebg-preview.png" name="Stand For The 2nd Time!" loop="Y" totalframe="50" enable="Y" aid="8263"/>
-                <action id="Ben3-removebg-preview.png" name="Getting a Ipad!" loop="Y" totalframe="50" enable="Y" aid="8264"/>
-</char>
 <char id="chrisayaogamer" name="ChrisAyaoGamer" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
    <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="251"/>
         <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="252"/>
