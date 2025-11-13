@@ -3207,6 +3207,7 @@
                 <action id="bored.swf" name="Bored" loop="Y" totalframe="50" enable="Y" aid="8269"/>
                 <action id="super_furious.swf" name="SUPER FURIOUS!" loop="Y" totalframe="50" enable="Y" aid="8270"/>
                 <action id="furious.swf" name="Furious" loop="Y" totalframe="50" enable="Y" aid="8271"/>
+                <action id="punch.swf" name="Punch" loop="Y" totalframe="50" enable="Y" aid="8272"/>
 	</char>
 <prop id="Windows_10_desktop.png" name="Windows 10" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <effect id="rainbow_effect_jacob2010.swf" type="ANIME" resize="false" move="false" name="Rainbow Effect (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
