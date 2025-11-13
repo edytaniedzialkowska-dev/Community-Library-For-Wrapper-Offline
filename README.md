@@ -4,8 +4,7 @@ Since GoAnimate Getting a Removed Community Library On July 31st, 2013 For Some 
 
 ~~~ How to add to your wrapper. ~~~ 
 
-1. Place this theme's folder into your asset reposity in /store/3a981f5cb2739137/ (if you host asset server someplace else)
-If you use wrapper offline, just place it in /wrapper-ofline/server/store/3a981f5cb2739137/
-2. Place the Community_Library XML file into the _THEMES folder
-3. In themelist.xml, add [<theme id="Community_Library" name="Community Library" cc_theme_id="Community_Library"/>] to your xml file. (If you want headgear, Remove the cc_theme_id variable).
-4. You should be good to go at this point, if there are any prolbems, let me know
+1. Place this theme's folder into your asset reposity in resources/app/server/store/3a981f5cb2739137 (if you host asset server someplace else)
+If you use wrapper offline 2.0.0 and 2.0.1, just place it in wrapper-offline-win32-x64/resources/app/server/store/3a981f5cb2739137
+2. In themelist.xml, add [<theme id="Community_Library" name="Community Library" cc_theme_id="Community_Library"/>] to your xml file.
+3. You should be good to go at this point, if there are any prolbems, let me know
