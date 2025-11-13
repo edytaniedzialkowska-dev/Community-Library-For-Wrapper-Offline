@@ -3116,6 +3116,7 @@
                 <action id="super_furious.swf" name="SUPER FURIOUS!" loop="Y" totalframe="50" enable="Y" aid="8273"/>
                 <action id="asleep.swf" name="Asleep" loop="Y" totalframe="50" enable="Y" aid="8274"/>
                 <action id="pingu_style.swf" name="Pingu Style" loop="Y" totalframe="50" enable="Y" aid="8275"/>
+                <action id="idea.swf" name="I Had an Idea" loop="Y" totalframe="50" enable="Y" aid="8276"/>
 	</char>
 <prop id="Jacob2010 Avatar October 2025.png" name="Jacob2010 Avatar October 2025" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="Jacob2010 Avatar April 2025.jpg" name="Jacob2010 Avatar April 2025" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
@@ -3208,6 +3209,7 @@
                 <action id="super_furious.swf" name="SUPER FURIOUS!" loop="Y" totalframe="50" enable="Y" aid="8270"/>
                 <action id="furious.swf" name="Furious" loop="Y" totalframe="50" enable="Y" aid="8271"/>
                 <action id="punch.swf" name="Punch" loop="Y" totalframe="50" enable="Y" aid="8272"/>
+                <action id="asleep.swf" name="Asleep" loop="Y" totalframe="50" enable="Y" aid="8273"/>
 	</char>
 <prop id="Windows_10_desktop.png" name="Windows 10" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <effect id="rainbow_effect_jacob2010.swf" type="ANIME" resize="false" move="false" name="Rainbow Effect (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
