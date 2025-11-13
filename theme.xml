@@ -3201,6 +3201,12 @@
                 <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8263"/>
                 <action id="talk.swf" name="Talking" loop="Y" totalframe="50" enable="Y" aid="8264"/>
                 <action id="sad.swf" name="Sad" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+                <action id="shocked.swf" name="Shocked" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+                <action id="scream.swf" name="Screaming/Shouting" loop="Y" totalframe="50" enable="Y" aid="8267"/>
+                <action id="idea.swf" name="I Had an Idea" loop="Y" totalframe="50" enable="Y" aid="8268"/>
+                <action id="bored.swf" name="Bored" loop="Y" totalframe="50" enable="Y" aid="8269"/>
+                <action id="super_furious.swf" name="SUPER FURIOUS!" loop="Y" totalframe="50" enable="Y" aid="8270"/>
+                <action id="furious.swf" name="Furious" loop="Y" totalframe="50" enable="Y" aid="8271"/>
 	</char>
 <prop id="Windows_10_desktop.png" name="Windows 10" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <effect id="rainbow_effect_jacob2010.swf" type="ANIME" resize="false" move="false" name="Rainbow Effect (Jacob2010)" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
