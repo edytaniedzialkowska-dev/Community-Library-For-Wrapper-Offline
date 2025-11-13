@@ -1,6 +1,6 @@
 # Community Library Project (by Jacob2010)
 
-Keep in mind that this is only a fraction of the community library that was recovered. so not everything has been archived from the community library. I'll probably add more as time goes on. Credit to those who contributed. But, Someone GoAnimate Getting a Removed Community Library On July 31st, 2013 For Some Reason The All! Also, The Community Library Project And Like FlashThemes, And Wrapper Offline! So, I'm Community Library Project For FlashThemes For Some Reason, And Also! Flashthemes Is Finally Released On September 9th, 2023, But! Wrapper Online Diamond Got Hacked and Ransomware For Some Reason The All! And So, Wrapper Online Diamond Replaced WrapperTube For No Reason The All!
+Since GoAnimate Getting a Removed Community Library On July 31st, 2013 For Some Reason The All! Also, The Community Library Project And Like FlashThemes, And Wrapper Offline! So, I'm Community Library Project For FlashThemes For Some Reason, And Also! Flashthemes Is Finally Released On September 9th, 2023, But! Wrapper Online Diamond Got Hacked and Ransomware For Some Reason The All! And So, Wrapper Online Diamond Replaced WrapperTube For No Reason The All!
 
 ~~~ How to add to your wrapper. ~~~ 
 
