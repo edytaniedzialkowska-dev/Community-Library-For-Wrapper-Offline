@@ -3330,5 +3330,8 @@
 		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
 		<action id="normal.swf" name="Normal" loop="Y" totalframe="50" enable="Y" aid="8261"/>
                 <action id="angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+                <action id="relaxed.swf" name="Relaxed!" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+                <action id="walk.swf" name="Walking" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+                <action id="cry.swf" name="Crying" loop="Y" totalframe="50" enable="Y" aid="8265"/>
 	</char>
 </theme>
