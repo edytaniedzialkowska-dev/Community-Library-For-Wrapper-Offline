@@ -3289,4 +3289,7 @@
 		<action id="walk.swf" name="Walk" loop="Y" totalframe="50" enable="Y" aid="8261"/>
                 <action id="kamp koral outfit.swf" name="Kamp Koral Outfit" loop="Y" totalframe="50" enable="Y" aid="8262"/>
 	</char>
+<sound id="goani_new_2_mpcreative.mp3" name="Creative Exercise - Mario Paint" downloadtype="progressive" subtype="bgmusic" duration="52990" enable="Y" is_premium="N" aid="51178" money="0" sharing="0"/>
+<sound id="goani_new_7_creativeexercise2.mp3" name="Creative Exercise (Jacob2010)" downloadtype="progressive" subtype="bgmusic" duration="317813" enable="Y" is_premium="N" aid="51895" money="0" sharing="0"/>
+<prop id="Party Background Jacob2010.swf" name="Party Background (Jacob2010 Background)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 </theme>
