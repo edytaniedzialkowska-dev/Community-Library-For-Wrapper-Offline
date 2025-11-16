@@ -3339,4 +3339,7 @@
                 <action id="relaxed.swf" name="Relaxed!" loop="Y" totalframe="50" enable="Y" aid="8261"/>
                 <action id="sing.swf" name="Singing" loop="Y" totalframe="50" enable="Y" aid="8262"/>
 	</char>
+<char id="petey" name="Petey the Paintbrush" thumb="idle.swf" facing="left" default="idle.swf" motion="idle.swf" enable="Y" is_premium="N" aid="9001" money="0" sharing="0">
+		<action id="idle.swf" name="Idle" loop="Y" totalframe="48" enable="Y" aid="90036"/>
+		</char>
 </theme>
