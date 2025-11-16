@@ -3292,4 +3292,12 @@
 <sound id="goani_new_2_mpcreative.mp3" name="Creative Exercise - Mario Paint" downloadtype="progressive" subtype="bgmusic" duration="52990" enable="Y" is_premium="N" aid="51178" money="0" sharing="0"/>
 <sound id="goani_new_7_creativeexercise2.mp3" name="Creative Exercise (Jacob2010)" downloadtype="progressive" subtype="bgmusic" duration="317813" enable="Y" is_premium="N" aid="51895" money="0" sharing="0"/>
 <prop id="Party Background Jacob2010.swf" name="Party Background (Jacob2010 Background)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<char id="95704685468692900000" enc_asset_id="a-1399432" thumb="940440846.swf" default="940440846.swf" name="Ruff (by leokids)" isCC="N" enable="Y" facing="left" published="1">
+<tags>Standing</tags>
+<action id="940440846.swf" name="Standing"/>
+<action id="16565726201.swf" name="Walk" enable="Y" aid="16565726201.swf"/>
+<action id="7470009257.swf" name="Reading Paper" enable="Y" aid="7470009257.swf"/>
+<action id="94203684269507050000.swf" name="Happy" enable="Y" aid="94203684269507050000.swf"/>
+<action id="72896297.swf" name="NOOOO!!!!!" enable="Y" aid="72896297.swf"/>
+</char>
 </theme>
