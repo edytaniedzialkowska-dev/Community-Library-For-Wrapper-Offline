@@ -3300,4 +3300,25 @@
 <action id="94203684269507050000.swf" name="Happy" enable="Y" aid="94203684269507050000.swf"/>
 <action id="72896297.swf" name="NOOOO!!!!!" enable="Y" aid="72896297.swf"/>
 </char>
+<char id="64670401662339200" enc_asset_id="a-331404" thumb="9046349452222290.swf" default="9046349452222290.swf" name="Tunner (by GoTube)" isCC="N" enable="Y" facing="left" published="1">
+<tags>sprunki</tags>
+<action id="9046349452222290.swf" name="Angry"/>
+<action id="469673291153248.swf" name="Cry" enable="Y" aid="469673291153248.swf"/>
+<action id="34223823353.swf" name="Dance" enable="Y" aid="34223823353.swf"/>
+<action id="5752869018432.swf" name="Death" enable="Y" aid="5752869018432.swf"/>
+<action id="35182818631882027000.swf" name="Default" enable="Y" aid="35182818631882027000.swf"/>
+<action id="250452556099594270.swf" name="Laugh" enable="Y" aid="250452556099594270.swf"/>
+<action id="49028917.swf" name="Sad" enable="Y" aid="49028917.swf"/>
+<action id="801084910566521.swf" name="Shocked" enable="Y" aid="801084910566521.swf"/>
+<action id="88366076294.swf" name="Shocked (talking)" enable="Y" aid="88366076294.swf"/>
+<action id="77444893258475.swf" name="Walk" enable="Y" aid="77444893258475.swf"/>
+</char>
+<char id="56095383060402" enc_asset_id="a-302244" thumb="90304779583411660.swf" default="90304779583411660.swf" name="Window (by Jack's GoAnimations)" isCC="N" enable="Y" facing="left" published="1">
+<tags>Front</tags>
+<action id="90304779583411660.swf" name="Front"/>
+<action id="571568281.swf" name="Front - with bushes" enable="Y" aid="571568281.swf"/>
+<action id="16074187686.swf" name="Side" enable="Y" aid="16074187686.swf"/>
+<action id="8430118169176837.swf" name="Side - with bushes" enable="Y" aid="8430118169176837.swf"/>
+</char>
+<prop id="Jacob2010 PFP November 2025.jpg" name="Jacob2010 Avatar November 2025" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 </theme>
