@@ -3334,4 +3334,9 @@
                 <action id="walk.swf" name="Walking" loop="Y" totalframe="50" enable="Y" aid="8264"/>
                 <action id="cry.swf" name="Crying" loop="Y" totalframe="50" enable="Y" aid="8265"/>
 	</char>
+<char id="sprunki_oren" name="Oren" thumb="stand.swf" facing="left" default="stand.swf" motion="stand.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+                <action id="relaxed.swf" name="Relaxed!" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="sing.swf" name="Singing" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+	</char>
 </theme>
