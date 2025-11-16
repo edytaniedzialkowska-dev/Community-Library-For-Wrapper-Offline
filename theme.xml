@@ -3321,4 +3321,9 @@
 <action id="8430118169176837.swf" name="Side - with bushes" enable="Y" aid="8430118169176837.swf"/>
 </char>
 <prop id="Jacob2010 PFP November 2025.jpg" name="Jacob2010 Avatar November 2025" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<char id="real_life_jacob" name="Real Life Jacob" thumb="stand.swf" facing="left" default="stand.swf" motion="stand.swf" enable="Y" is_premium="Y" aid="8259" money="0" sharing="0">
+		<action id="stand.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+		<action id="talk.swf" name="Talking" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+                <action id="laugh.swf" name="Laugh" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+	</char>
 </theme>
