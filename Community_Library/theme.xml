@@ -3359,4 +3359,73 @@
 <prop id="FlashThemesBrian.png" name="FlashThemes Brian" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="img_3rdsection_char.png" name="FlashThemes 3rd Section Characters" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="Ftlg.png" name="FlashThemes Logo" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<char id="cat1" name="Cat 1 (1.x)" thumb="cat1-a.gif" facing="left" default="cat1-a.gif" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
+        <category name="Costumes">
+        <action id="cat1-a.gif" name="cat1-a" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="cat1-b.gif" name="cat1-b" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+        </char>
+<char id="blue" name="Blue" thumb="idle.swf" facing="left" default="idle.swf" motion="walk.swf" enable="Y" is_premium="N" aid="9001" money="0" sharing="0">
+		<action id="idle.swf" name="Idle" loop="Y" totalframe="1" enable="Y" aid="90036"/>
+		<action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="90036"/>
+		<action id="standing_at_you.swf" name="Idle" loop="Y" totalframe="1" enable="Y" aid="90036"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="24" enable="Y" aid="90036"/>
+		</char>
+<char id="bomb" name="Bomb" thumb="idle.swf" facing="left" default="idle.swf" motion="walk.swf" enable="Y" is_premium="N" aid="9001" money="0" sharing="0">
+		<action id="idle.swf" name="Idle" loop="Y" totalframe="1" enable="Y" aid="90036"/>
+		<action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="90036"/>
+		<action id="soul.swf" name="Idle" loop="Y" totalframe="1" enable="Y" aid="90036"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="24" enable="Y" aid="90036"/>
+		</char>
+<char id="chuck" name="Chuck" thumb="idle.swf" facing="left" default="idle.swf" motion="walk.swf" enable="Y" is_premium="N" aid="9001" money="0" sharing="0">
+		<action id="idle.swf" name="Idle" loop="Y" totalframe="1" enable="Y" aid="90036"/>
+		<action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="90036"/>
+		<action id="standing_at_you.swf" name="Idle" loop="Y" totalframe="1" enable="Y" aid="90036"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="24" enable="Y" aid="90036"/>
+		</char>
+<char id="red" name="Red" thumb="idle.swf" facing="left" default="idle.swf" motion="walk.swf" enable="Y" is_premium="N" aid="9001" money="0" sharing="0">
+		<action id="idle.swf" name="Idle" loop="Y" totalframe="1" enable="Y" aid="90036"/>
+		<action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="90036"/>
+		<action id="looking_at_yoursoul.swf" name="Idle" loop="Y" totalframe="1" enable="Y" aid="90036"/>
+		<action id="walk.swf" name="Walk" loop="Y" totalframe="24" enable="Y" aid="90036"/>
+		<action id="dumb.swf" name="Dumbass" loop="Y" totalframe="1" enable="Y" aid="90036"/>
+		<action id="egg.swf" name="Egg lol" loop="Y" totalframe="1" enable="Y" aid="90036"/>
+		<action id="no_eyebrows.swf" name="No EyeBrows?" loop="Y" totalframe="1" enable="Y" aid="90036"/>
+		<action id="no_tail.swf" name="No Tail?" loop="Y" totalframe="24" enable="Y" aid="90036"/>
+		<action id="ok_this_is_cursed.swf" name="Ok this is cursed af" loop="Y" totalframe="1" enable="Y" aid="90036"/>
+		<action id="the_rock_eyebrow.swf" name="The Rock Eyebrow Meme!!!11!!!" loop="Y" totalframe="24" enable="Y" aid="90036"/>
+		</char>
+<char id="arthur" name="Arthur" thumb="ar_arthur_standing.swf" facing="left" default="ar_arthur_standing.swf" motion="ar_arthur_wave.swf" enable="Y" is_premium="N" aid="8259" money="0" sharing="0">
+        <action id="ar_arthur_standing.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+        <action id="ar_arthur_wave.swf" name="Wave" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+        <action id="ar_arthur_books.swf" name="Book" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+        <action id="ar_arthur_shocked.swf" name="Shocked" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+        <action id="ar_arthur_camping.swf" name="Camp" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+        <action id="ar_arthur_camera.swf" name="Camera" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+        </char>
+<char id="dw" name="dw" thumb="ar_dw_standing.swf" facing="left" default="ar_dw_standing.swf" motion="ar_dw_silly.swf" enable="Y" is_premium="N" aid="8259" money="0" sharing="0">    
+        <action id="ar_dw_standing.swf" name="Stand" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+        <action id="ar_dw_silly.swf" name="Silly" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+        <action id="ar_dw_angry.swf" name="Angry" loop="Y" totalframe="50" enable="Y" aid="8262"/>    
+         </char>
+<char id="wordgirl" name="WordGirl" thumb="wg_wordgirl_front.swf" facing="left" default="wg_wordgirl_front.swf" motion="wg_wordgirl_walking.swf" enable="Y" is_premium="N" aid="8259" money="0" sharing="0">
+  <action id="wg_wordgirl_front.swf" name="Front" loop="Y" totalframe="50" enable="Y" aid="8260"/>
+  <action id="wg_wordgirl_front2.swf" name="Front 2" loop="Y" totalframe="50" enable="Y" aid="8261"/>
+  <action id="wg_wordgirl_walking.swf" name="Walking" loop="Y" totalframe="50" enable="Y" aid="8262"/>
+  <action id="wg_wordgirl_running.swf" name="Running" loop="Y" totalframe="50" enable="Y" aid="8263"/>
+  <action id="wg_wordgirl_science_lab.swf" name="Science Lab" loop="Y" totalframe="50" enable="Y" aid="8264"/>
+  <action id="wg_wordgirl_photo.swf" name="Photo" loop="Y" totalframe="50" enable="Y" aid="8265"/>
+  <action id="wg_wordgirl_costume.swf" name="Costume" loop="Y" totalframe="50" enable="Y" aid="8266"/>
+  <action id="wg_wordgirl_computer_on.swf" name="Computer On" loop="Y" totalframe="50" enable="Y" aid="8267"/>
+  <action id="wg_wordgirl_communicator.swf" name="Communicator" loop="Y" totalframe="50" enable="Y" aid="8268"/>
+  <action id="wg_wordgirl_chest.swf" name="Chest" loop="Y" totalframe="50" enable="Y" aid="8269"/>
+  <action id="wg_wordgirl_doll.swf" name="Doll" loop="Y" totalframe="50" enable="Y" aid="8270"/>
+  <action id="wg_wordgirl_fan_club_tree_house.swf" name="Fan Club Tree House" loop="Y" totalframe="50" enable="Y" aid="8271"/>
+  <action id="wg_wordgirl_spacecraft.swf" name="Spacecraft" loop="Y" totalframe="50" enable="Y" aid="8272"/>
+       <action id="wg_wordgirl_walkie_talkie.swf" name="Walkie Talkie" loop="Y" totalframe="50" enable="Y" aid="8273"/>
+       <action id="wg_wordgirl_unicorn_statue.swf" name="Unicorn Statue" loop="Y" totalframe="50" enable="Y" aid="8274"/>
+       <action id="wg_wordgirl_tv.swf" name="TV" loop="Y" totalframe="50" enable="Y" aid="8275"/>
+       <action id="wg_wordgirl_crime_alarm.swf" name="Crime Alarm" loop="Y" totalframe="50" enable="Y" aid="8276"/>
+       <action id="wg_wordgirl_present.swf" name="Present" loop="Y" totalframe="50" enable="Y" aid="8277"/>
+        </char>
 </theme>
