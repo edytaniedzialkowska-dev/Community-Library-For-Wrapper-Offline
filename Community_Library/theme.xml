@@ -3359,7 +3359,7 @@
 <prop id="FlashThemesBrian.png" name="FlashThemes Brian" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="img_3rdsection_char.png" name="FlashThemes 3rd Section Characters" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="Ftlg.png" name="FlashThemes Logo" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
-<char id="cat1" name="Cat 1 (1.x)" thumb="cat1-a.gif" facing="left" default="cat1-a.gif" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
+<char id="scratch_cat" name="Cat 1 (1.x)" thumb="cat1-a.gif" facing="left" default="cat1-a.gif" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
         <category name="Costumes">
         <action id="cat1-a.gif" name="cat1-a" loop="Y" totalframe="1" enable="Y" aid="60"/>
         <action id="cat1-b.gif" name="cat1-b" loop="Y" totalframe="1" enable="Y" aid="60"/>
