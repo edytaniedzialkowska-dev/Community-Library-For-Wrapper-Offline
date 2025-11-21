@@ -3510,4 +3510,5 @@
         <sound id="HandClap.mp3" name="Hand Clap" subtype="soundeffect" duration="209" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
         <sound id="RideCymbal.mp3" name="Ride Cymbal" subtype="soundeffect" duration="888" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
         <sound id="Shaker.mp3" name="Shaker" subtype="soundeffect" duration="1829" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="FlashThemesJacob.png" name="FlashThemes Brian (Jacob2010 Version)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 </theme>
