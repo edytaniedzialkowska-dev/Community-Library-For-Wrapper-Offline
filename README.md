@@ -4,7 +4,7 @@ Since GoAnimate Getting a Removed Community Library On July 31st, 2013 For Some 
 
 # Released and Updates
 
-Version 1.0.0
+Version 1.0.0 (Released)
 
 Version 1.0.1
 
