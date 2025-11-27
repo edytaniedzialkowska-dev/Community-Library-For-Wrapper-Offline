@@ -3512,4 +3512,5 @@
         <sound id="Shaker.mp3" name="Shaker" subtype="soundeffect" duration="1829" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="FlashThemesJacob.png" name="FlashThemes Brian (Jacob2010 Version)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="Julian Shocked.png" name="Julian Shocked" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<effect id="autumn_leaves_falling_jacob2010.swf" type="ANIME" resize="false" move="false" name="Autumn Leaves Falling Effect (Jacob2010)" enable="Y" is_premium="N" aid="12339" money="0" sharing="0" display_order="1014"/>
 </theme>
