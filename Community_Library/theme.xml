@@ -3543,4 +3543,5 @@
 <prop id="Julian Shocked.png" name="Julian Shocked" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <effect id="autumn_leaves_falling_jacob2010.swf" type="ANIME" resize="false" move="false" name="Autumn Leaves Falling Effect (Jacob2010)" enable="Y" is_premium="N" aid="12339" money="0" sharing="0" display_order="1014"/>
 <prop id="731762078962.swf" holdable="0" headable="0" wearable="0" placeable="1" facing="left" subtype="prop" enc_asset_id="a-1276828" name="crossed_arms (by BradleyNation)" published="1" enable="Y"><tags/></prop>
+<prop id="My Mom Is Kinda Homeless.swf" name="My Mom Is Kinda Homeless" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 </theme>
